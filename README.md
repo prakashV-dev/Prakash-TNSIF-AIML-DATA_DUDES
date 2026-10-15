@@ -140,60 +140,6 @@ TNS_AIML_DATA-DUDES/
 	└── requirements.txt
 ```
 
-## Team Roles
-
-The work is divided among six team members, with three members assigned to each project.
-
-### Customer Persona Segmenter Team
-
-#### AATHIKA - Data and Machine Learning Engineer
-
-- Clean and analyze customer data
-- Prepare features for clustering
-- Train and evaluate the K-Means model
-- Save and document the trained model
-
-#### KAMALINI - Backend/API Developer
-
-- Build the FastAPI service
-- Create persona prediction endpoints
-- Validate incoming data
-- Integrate and test the clustering model
-
-#### EESHA - Frontend and Visualization Developer
-
-- Build the Streamlit interface
-- Display persona results and charts
-- Connect the frontend to the API
-- Test the complete user workflow
-
-### Loan Approval Prediction Team
-
-### HEYMAALOCHAN - Data and Machine Learning Engineer
-
-- Prepare and analyze loan data
-- Perform feature engineering and preprocessing
-- Train and compare classification models
-- Save the selected model and evaluation reports
-
-#### PRAKASH - Backend/API Developer
-
-- Build the FastAPI loan approval service
-- Create `/health` and `/predict` endpoints
-- Validate loan application requests
-- Load and test the trained model
-
-#### SANTHOSH 6 - Frontend and Integration Developer
-
-- Build the Streamlit loan application interface
-- Create input forms and result views
-- Connect Streamlit to the FastAPI backend
-- Display approval probability and risk factors
-
-
-## Collaboration
-
-Team members should work on separate feature branches, commit focused changes, and merge their work into `main` through pull requests.
 
 ```text
 main
